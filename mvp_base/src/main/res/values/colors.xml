@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--base color setting-->
+    <color name="transparent">#00000000</color>
+
+    <!-- swipe refresh color -->
+    <color name="swipe_refresh_first">#ff00ddff</color>
+    <color name="swipe_refresh_second">#ffffbb33</color>
+    <color name="swipe_refresh_third">#ffff4444</color>
+    <color name="swipe_refresh_four">#ffaa66cc</color>
+
+    <!--other widget setting-->
+    <color name="dot_selected">#339933</color>
+    <color name="dot_unselected">#ebfaeb</color>
+
+    <color name="normal_text">#585858</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--====================the light theme color set=======================-->
+    <color name="light_principle">#339933</color>
+    <color name="light_state_bar">#339933</color>
+    <color name="light_action_bar_text">#FFFFFF</color>
+    <color name="light_hint">#EEE</color>
+    <color name="light_divider">#EEE</color>
+
+    <color name="light_tab_item_selected">#EBFAEB</color>
+    <color name="light_tab_item_unselected">#FFFFFF</color>
+    <color name="light_tab_item_underline">#EBFAEB</color>
+
+    <color name="light_list_item_background">#f2faf2</color>
+
+    <color name="light_main_list_item_title">#535353</color>
+    <color name="light_main_list_item_content">#999</color>
+    <color name="light_main_list_item_username">#339933</color>
+    <color name="light_main_list_item_time">#999</color>
+    <color name="light_main_list_item_unselected">#FFFFFF</color>
+    <color name="light_main_list_item_selected">#f4f4f4</color>
+    <color name="light_main_list_item_ripple">#E4E4E4</color>
+    <color name="light_main_list_item_comment_count">#999</color>
+
+    <color name="light_drawer_header_background">#339933</color>
+    <color name="light_drawer_menu_item_selected">#EEE</color>
+    <color name="light_drawer_header_background_ripple">#E4E4E4</color>
+    <color name="light_drawer_header_username">#FFFFFF</color>
+    <color name="light_drawer_header_abilities">#FFFFFF</color>
+    <color name="light_drawer_header_abilities_background">#EEE</color>
+    <color name="light_drawer_header_skill_score">#FFFFFF</color>
+
+    <color name="light_drawer_container_background">#FFFFFF</color>
+    <color name="light_drawer_container_menu_text">#000000</color>
+
+    <color name="light_func_loading_text">#666</color>
+
+    <color name="light_refresh_progress_background">#FFFFFF</color>
+
+    <color name="light_detail_title_background">#EBFAEB</color>
+    <color name="light_detail_title_text">#000000</color>
+    <color name="light_detail_header_username">#339933</color>
+    <color name="light_detail_header_other">#999</color>
+    <color name="light_detail_header_background">#FFF</color>
+    <color name="light_detail_content_text">#000</color>
+    <color name="light_detail_content_background">#F6F6F6</color>
+    <color name="light_detail_footer_text">#999</color>
+    <color name="light_detail_footer_background">#FFF</color>
+    <color name="light_detail_footer_background_selected">#EEE</color>
+    <color name="light_detail_footer_background_ripple">#E4E4E4</color>
+
+    <color name="light_comment_list_item_username">#339933</color>
+    <color name="light_comment_list_item_time">#999</color>
+    <color name="light_comment_list_item_content">#232323</color>
+    <color name="light_comment_list_item_unselected">#FFF</color>
+    <color name="light_comment_list_item_selected">#EEE</color>
+    <color name="light_comment_list_item_ripple">#E4E4E4</color>
+    <color name="light_comment_list_item_refer_background">#fdfdf6</color>
+    <color name="light_comment_list_item_refer_title">#4d85ff</color>
+    <color name="light_comment_list_item_refer_content">#999</color>
+    <color name="light_comment_list_item_refer_border">#EEE</color>
+
+    <color name="light_keyboard_panel_background">#FFF</color>
+    <color name="light_keyboard_emotion_tab_item_selected">#EEE</color>
+    <color name="light_keyboard_emotion_tab_item_unselected">#FFF</color>
+    <color name="light_keyboard_emotion_tab_item_border">#E4E4E4</color>
+    <color name="light_keyboard_emotion_tab_item_text">#000</color>
+    <color name="light_keyboard_emotion_card_tab_item_selected">#339933</color>
+    <color name="light_keyboard_emotion_card_tab_item_unselected">#EBFAEB</color>
+    <color name="light_keyboard_input_text">#000</color>
+
+    <color name="light_tweet_list_item_username">#339933</color>
+    <color name="light_tweet_list_item_content">#000</color>
+    <color name="light_tweet_list_item_highlight">#339933</color>
+    <color name="light_tweet_list_item_other">#999</color>
+    <color name="light_tweet_list_item_background_selected">#EEE</color>
+    <color name="light_tweet_list_item_background_unselected">#FFF</color>
+    <color name="light_tweet_list_item_background_ripple">#E4E4E4</color>
+    <color name="light_tweet_list_item_like_list_background">#0c000000</color>
+
+    <color name="light_tweet_comment_list_item_username">#339933</color>
+    <color name="light_tweet_comment_list_item_content">#000</color>
+    <color name="light_tweet_comment_list_item_time">#999</color>
+    <color name="light_tweet_comment_list_item_background_selected">#EEE</color>
+    <color name="light_tweet_comment_list_item_background_unselected">#FFF</color>
+    <color name="light_tweet_comment_list_item_background_ripple">#E4E4E4</color>
+
+    <color name="light_tweet_floating_action_button_background_unselected">#339933</color>
+    <color name="light_tweet_floating_action_button_background_selected">#339933</color>
+    <color name="light_tweet_floating_action_button_plus">#FFFFFF</color>
+
+    <color name="light_tweet_floating_action_button_item_background_unselected">#EEE</color>
+    <color name="light_tweet_floating_action_button_item_background_selected">#EEE</color>
+
+    <color name="light_tweet_floating_cover">#64FDFDFD</color>
+
+    <color name="light_login_background">#FFFFFF</color>
+    <color name="light_login_form_username">#000</color>
+    <color name="light_login_form_password">#000</color>
+    <color name="light_login_form_hint">#EEE</color>
+    <color name="light_login_form_error">#FF0000</color>
+    <color name="light_login_text">#000</color>
+
+    <color name="light_dialog_option_unselected">#FFF</color>
+    <color name="light_dialog_opinion_selected">#EEE</color>
+    <color name="light_dialog_opinion_ripple">#E4E4E4</color>
+    <color name="light_dialog_text">#000</color>
+
+    <color name="light_tweet_publish_editor_background">#FFF</color>
+    <color name="light_tweet_publish_editor_text">#000</color>
+    <color name="light_tweet_publish_emotion_navigation">#E4E4E4</color>
+
+    <color name="light_user_home_username">#FFF</color>
+    <color name="light_user_home_join_time">#FFF</color>
+    <color name="light_user_home_coordinate">#FFF</color>
+    <color name="light_user_home_statistic">#000</color>
+    <color name="light_user_home_statistic_border">#e2e2e2</color>
+    <color name="light_user_home_blow_background">#ececec</color>
+    <color name="light_user_home_blow_row">#FFF</color>
+    <color name="light_user_home_blow_label">#000</color>
+    <color name="light_user_home_blow_label_value">#0e0e0e</color>
+    <color name="light_user_home_blow_label_value_background">#eee</color>
+
+
+    <!--====================the dark theme color set=======================-->
+    <color name="dark_principle">#293339</color>
+    <color name="dark_state_bar">#293339</color>
+    <color name="dark_action_bar_text">#FFFFFF</color>
+    <color name="dark_hint">#565a5c</color>
+    <color name="dark_divider">#1D2428</color>
+
+    <color name="dark_tab_item_selected">#EBFAEB</color>
+    <color name="dark_tab_item_unselected">#FFFFFF</color>
+    <color name="dark_tab_item_underline">#EBFAEB</color>
+
+    <color name="dark_list_item_background">#181E21</color>
+
+    <color name="dark_main_list_item_title">#C7C9C9</color>
+    <color name="dark_main_list_item_content">#83898C</color>
+    <color name="dark_main_list_item_username">#339933</color>
+    <color name="dark_main_list_item_time">#83898C</color>
+    <color name="dark_main_list_item_unselected">#293339</color>
+    <color name="dark_main_list_item_selected">#242e35</color>
+    <color name="dark_main_list_item_ripple">#576c79</color>
+    <color name="dark_main_list_item_comment_count">#83898C</color>
+
+    <color name="dark_drawer_header_background">#181E21</color>
+    <color name="dark_drawer_menu_item_selected">#293339</color>
+    <color name="dark_drawer_header_background_ripple">#344048</color>
+    <color name="dark_drawer_header_username">#FFFFFF</color>
+    <color name="dark_drawer_header_abilities">#FFFFFF</color>
+    <color name="dark_drawer_header_abilities_background">#EEE</color>
+    <color name="dark_drawer_header_skill_score">#FFFFFF</color>
+
+    <color name="dark_drawer_container_background">#252c2e</color>
+    <color name="dark_drawer_container_menu_text">#FFFFFF</color>
+
+    <color name="dark_func_loading_text">#FFF</color>
+
+    <color name="dark_refresh_progress_background">#181E21</color>
+
+    <color name="dark_detail_title_background">#181E21</color>
+    <color name="dark_detail_title_text">#FFF</color>
+    <color name="dark_detail_header_username">#339933</color>
+    <color name="dark_detail_header_other">#83898C</color>
+    <color name="dark_detail_header_background">#1D2428</color>
+    <color name="dark_detail_content_text">#83898C</color>
+    <color name="dark_detail_content_background">#181E21</color>
+    <color name="dark_detail_footer_text">#83898C</color>
+    <color name="dark_detail_footer_background">#293339</color>
+    <color name="dark_detail_footer_background_selected">#242e35</color>
+    <color name="dark_detail_footer_background_ripple">#1f282e</color>
+
+    <color name="dark_comment_list_item_username">#339933</color>
+    <color name="dark_comment_list_item_time">#83898C</color>
+    <color name="dark_comment_list_item_content">#83898C</color>
+    <color name="dark_comment_list_item_unselected">#293339</color>
+    <color name="dark_comment_list_item_selected">#242e35</color>
+    <color name="dark_comment_list_item_ripple">#1f282e</color>
+    <color name="dark_comment_list_item_refer_background">#1d252b</color>
+    <color name="dark_comment_list_item_refer_title">#4d85ff</color>
+    <color name="dark_comment_list_item_refer_content">#757a7c</color>
+    <color name="dark_comment_list_item_refer_border">#83898C</color>
+
+    <color name="dark_keyboard_panel_background">#293339</color>
+    <color name="dark_keyboard_emotion_tab_item_selected">#1D2428</color>
+    <color name="dark_keyboard_emotion_tab_item_unselected">#293339</color>
+    <color name="dark_keyboard_emotion_tab_item_border">#1D2428</color>
+    <color name="dark_keyboard_emotion_tab_item_text">#FFF</color>
+    <color name="dark_keyboard_emotion_card_tab_item_selected">#339933</color>
+    <color name="dark_keyboard_emotion_card_tab_item_unselected">#EBFAEB</color>
+    <color name="dark_keyboard_input_text">#FFF</color>
+
+    <color name="dark_tweet_list_item_username">#339933</color>
+    <color name="dark_tweet_list_item_content">#83898C</color>
+    <color name="dark_tweet_list_item_highlight">#339933</color>
+    <color name="dark_tweet_list_item_other">#83898C</color>
+    <color name="dark_tweet_list_item_background_selected">#242e35</color>
+    <color name="dark_tweet_list_item_background_unselected">#293339</color>
+    <color name="dark_tweet_list_item_background_ripple">#1f282e</color>
+    <color name="dark_tweet_list_item_like_list_background">#0CFFFFFF</color>
+
+    <color name="dark_tweet_comment_list_item_username">#339933</color>
+    <color name="dark_tweet_comment_list_item_content">#83898C</color>
+    <color name="dark_tweet_comment_list_item_time">#83898C</color>
+    <color name="dark_tweet_comment_list_item_background_selected">#242e35</color>
+    <color name="dark_tweet_comment_list_item_background_unselected">#293339</color>
+    <color name="dark_tweet_comment_list_item_background_ripple">#1f282e</color>
+
+    <color name="dark_tweet_floating_action_button_background_unselected">#339933</color>
+    <color name="dark_tweet_floating_action_button_background_selected">#339933</color>
+    <color name="dark_tweet_floating_action_button_plus">#FFFFFF</color>
+
+    <color name="dark_tweet_floating_action_button_item_background_unselected">#EEE</color>
+    <color name="dark_tweet_floating_action_button_item_background_selected">#EEE</color>
+
+    <color name="dark_tweet_floating_cover">#64000000</color>
+
+    <color name="dark_login_background">#293339</color>
+    <color name="dark_login_form_username">#FFF</color>
+    <color name="dark_login_form_password">#FFF</color>
+    <color name="dark_login_form_hint">#EEE</color>
+    <color name="dark_login_form_error">#FF0000</color>
+    <color name="dark_login_text">#FFF</color>
+
+    <color name="dark_dialog_option_unselected">#293339</color>
+    <color name="dark_dialog_option_selected">#242e35</color>
+    <color name="dark_dialog_option_ripple">#1f282e</color>
+    <color name="dark_dialog_text">#FFF</color>
+
+    <color name="dark_tweet_publish_editor_background">#181E21</color>
+    <color name="dark_tweet_publish_editor_text">#FFF</color>
+    <color name="dark_tweet_publish_emotion_navigation">#293339</color>
+
+    <color name="dark_user_home_username">#FFF</color>
+    <color name="dark_user_home_join_time">#FFF</color>
+    <color name="dark_user_home_coordinate">#FFF</color>
+    <color name="dark_user_home_statistic">#FFF</color>
+    <color name="dark_user_home_statistic_border">#1e2920</color>
+    <color name="dark_user_home_blow_background">#181E21</color>
+    <color name="dark_user_home_blow_row">#293339</color>
+    <color name="dark_user_home_blow_label">#FFF</color>
+    <color name="dark_user_home_blow_label_value">#FFF</color>
+    <color name="dark_user_home_blow_label_value_background">#1c2226</color>
+
+
+</resources>

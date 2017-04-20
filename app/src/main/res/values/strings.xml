@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmartGateway2.0</string>
+
+    <string name="navigation_drawer_open" translatable="false">close drawer</string>
+    <string name="navigation_drawer_close" translatable="false">open drawer</string>
+
+    <string name="news">资讯</string>
+    <string name="change_theme">改变主题</string>
+    <string name="setting">设置</string>
+    <string name="tweets">动弹</string>
+    <string name="blog">博客</string>
+    <string name="explore">发现</string>
+    <string name="technology_question_answer">技术问答</string>
+    <string name="my_blog">我的博客</string>
+    <string name="my_tweet">我的动弹</string>
+    <string name="my_favorite">我的收藏</string>
+</resources>

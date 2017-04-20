@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="principle" format="reference|color"/>
+    <attr name="state_bar" format="reference|color"/>
+    <attr name="action_bar_text" format="reference|color"/>
+    <attr name="hint" format="reference|color"/>
+    <attr name="horizontal_divider" format="reference|color"/>
+
+    <attr name="tab_item_selected" format="reference|color"/>
+    <attr name="tab_item_unselected" format="reference|color"/>
+    <attr name="tab_item_underline" format="reference|color"/>
+
+    <attr name="list_view_background" format="reference|color"/>
+
+    <attr name="main_list_item_title" format="reference|color"/>
+    <attr name="main_list_item_content" format="reference|color"/>
+    <attr name="main_list_item_username" format="reference|color"/>
+    <attr name="main_list_item_time" format="reference|color"/>
+    <attr name="main_list_item_background" format="reference"/>
+    <attr name="main_list_item_comment_count" format="reference|color"/>
+
+    <attr name="drawer_header_background" format="reference|color"/>
+    <attr name="drawer_header_username" format="reference|color"/>
+    <attr name="drawer_header_abilities" format="reference|color"/>
+    <attr name="drawer_header_abilities_background" format="reference|color"/>
+    <attr name="drawer_header_skill_score" format="reference|color"/>
+
+
+    <attr name="drawer_container_background" format="reference|color"/>
+    <attr name="drawer_container_menu_text" format="reference|color"/>
+    <attr name="drawer_container_menu" format="reference"/>
+
+    <attr name="func_loading_text" format="reference|color"/>
+
+    <attr name="refresh_progress_background" format="reference|color"/>
+
+    <attr name="detail_title_background" format="reference|color"/>
+    <attr name="detail_title_text" format="reference|color"/>
+    <attr name="detail_header_username" format="reference|color"/>
+    <attr name="detail_header_background" format="reference|color"/>
+    <attr name="detail_header_other" format="reference|color"/>
+    <attr name="detail_content_text" format="reference|color"/>
+    <attr name="detail_content_background" format="reference|color"/>
+    <attr name="detail_footer_text" format="reference|color"/>
+    <attr name="detail_footer_background" format="reference"/>
+
+    <attr name="comment_list_item_username" format="reference|color"/>
+    <attr name="comment_list_item_time" format="reference|color"/>
+    <attr name="comment_list_item_content" format="reference|color"/>
+    <attr name="comment_list_item_background" format="reference"/>
+    <attr name="comment_list_item_refer_background" format="reference"/>
+    <attr name="comment_list_item_refer_title" format="color"/>
+    <attr name="comment_list_item_refer_content" format="color"/>
+    <attr name="comment_list_item_refer_border" format="color"/>
+
+    <attr name="keyboard_panel_background" format="reference|color"/>
+    <attr name="keyboard_emotion_tab_item_background" format="reference"/>
+    <attr name="keyboard_emotion_tab_item_text" format="reference|color"/>
+    <attr name="keyboard_emotion_card_tab_item_background" format="reference"/>
+    <attr name="keyboard_input_text" format="reference|color"/>
+
+    <attr name="tweet_list_item_username" format="reference|color"/>
+    <attr name="tweet_list_item_content" format="reference|color"/>
+    <attr name="tweet_list_item_highlight" format="reference|color"/>
+    <attr name="tweet_list_item_other" format="reference|color"/>
+    <attr name="tweet_list_item_background" format="reference"/>
+    <attr name="tweet_list_item_like_list_background" format="reference|color"/>
+
+    <attr name="tweet_comment_list_item_username" format="reference|color"/>
+    <attr name="tweet_comment_list_item_content" format="reference|color"/>
+    <attr name="tweet_comment_list_item_time" format="reference|color"/>
+    <attr name="tweet_comment_list_item_background" format="reference"/>
+
+    <attr name="tweet_floating_action_button_background_unselected" format="color"/>
+    <attr name="tweet_floating_action_button_background_selected" format="color"/>
+    <attr name="tweet_floating_action_button_plus" format="color"/>
+
+    <attr name="tweet_floating_action_button_item_background_unselected" format="color"/>
+    <attr name="tweet_floating_action_button_item_background_selected" format="color"/>
+
+    <attr name="tweet_floating_cover" format="color"/>
+
+    <attr name="login_background" format="color"/>
+    <attr name="login_form_username" format="color"/>
+    <attr name="login_form_password" format="color"/>
+    <attr name="login_form_hint" format="color"/>
+    <attr name="login_form_error" format="color"/>
+    <attr name="login_text" format="color"/>
+
+    <attr name="dialog_background" format="color"/>
+    <attr name="dialog_opinion_background" format="reference"/>
+    <attr name="dialog_text" format="color"/>
+
+    <attr name="tweet_publish_editor_background" format="color"/>
+    <attr name="tweet_publish_editor_text" format="color"/>
+    <attr name="tweet_publish_emotion_navigation" format="color"/>
+
+    <attr name="user_home_username" format="color"/>
+    <attr name="user_home_join_time" format="color"/>
+    <attr name="user_home_coordinate" format="color"/>
+    <attr name="user_home_statistic" format="color"/>
+    <attr name="user_home_statistic_border" format="color"/>
+    <attr name="user_home_blow_background" format="color"/>
+    <attr name="user_home_blow_row" format="color"/>
+    <attr name="user_home_blow_label" format="color"/>
+    <attr name="user_home_blow_label_value" format="color"/>
+    <attr name="user_home_blow_label_value_background" format="reference"/>
+
+
+
+
+</resources>
