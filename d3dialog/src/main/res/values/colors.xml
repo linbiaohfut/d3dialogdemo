@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indigo">#3F51B5</color>
+    <color name="teal">#009688</color>
+    <color name="darkDeepOrange">#E64A19</color>
+    <color name="darkGreen">#388E3C</color>
+    <color name="darkBlueGrey">#455A64</color>
+    <color name="darkRed">#D32F2F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="ld_textInputError">#F44336</color>
+    <color name="common_blank_background">#F8F8F8</color>
+
+    <color name="alpha_20_white">#33FFFFFF</color>
+    <color name="alpha_30_black">#4D000000</color>
+    <color name="alpha_100_black">#ff000000</color>
+    <color name="dialog_line">#cdced4</color>
+
+    <color name="black">#000000</color> <!--黑-->
+    <color name="black_light">#363636</color> <!--黑-->
+    <color name="gray">#dcdcdc</color>
+</resources>
